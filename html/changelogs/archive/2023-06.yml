@@ -359,3 +359,8 @@
   ivanmixo:
   - bugfix: Fixed new character slots/characters being uneditable in prefs
   - code_imp: Fixed more type definitions in params
+2023-06-27:
+  Lumipharon:
+  - bugfix: Leap abilities will no longer incur water slowdown for leaping over water
+  ivanmixo:
+  - code_imp: Converted instances of new/list to the list wrapper
